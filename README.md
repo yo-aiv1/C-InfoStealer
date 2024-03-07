@@ -4,6 +4,12 @@ Passwords and cookies grabber written in C.
 ## Description
 This project is currently under development.
 
+This project requires the following libraries:
+
+- SQLite3
+- OpenSSL
+- cJSON
+
 ## Disclaimer
 This program is provided for informational, educational and research purposes only. By using this program, you explicitly agree to the following terms:
 - This program is not intended for any unauthorized or malicious activity. Any use that could harm, disrupt, or compromise a system or network is strictly prohibited.
