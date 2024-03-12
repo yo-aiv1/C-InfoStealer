@@ -10,6 +10,9 @@ This project requires the following libraries:
 - OpenSSL
 - cJSON
 
+## Contributions
+Pull requests are welcome. If you'd like to propose changes, please open an issue to discuss them beforehand. Your contributions are valued and appreciated.
+
 ## Disclaimer
 This program is provided for informational, educational and research purposes only. By using this program, you explicitly agree to the following terms:
 - This program is not intended for any unauthorized or malicious activity. Any use that could harm, disrupt, or compromise a system or network is strictly prohibited.
